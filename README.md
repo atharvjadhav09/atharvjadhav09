@@ -1,16 +1,39 @@
-## Hi there 👋
+#  Hi, I'm Atharv Dhanaji Jadhav!
 
-<!--
-**atharvjadhav09/atharvjadhav09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+
+I'm a developer with a passion for creating clean, efficient, and user-friendly applications.
+
+---
+
+## Tech Stack
+
+- **Languages**: java, Python,c, cpp
+- **Frontend**: React, HTML, CSS
+- **Backend**: Node.js, Express
+- **Tools**: Git, VS Code, Docker
+- **Databases**: MongoDB, PostgreSQL
+- **OS**: Linux, Windows
+
+---
+
+##  Currently Learning
+
+- System design patterns
+- Cloud technologies (AWS, Azure)
+- Machine learning & AI
+
+---
+
+##  Let's Collaborate!
+
+I'm open to collaborating on interesting projects. Feel free to reach out if you'd like to work together on:
+- Open-source contributions
+- Full-stack applications
+- Innovative tech projects
+
+---
